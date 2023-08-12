@@ -1,0 +1,2342 @@
+{
+  "frost_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Frost Prime Neuroptics Blueprint"
+  },
+  "frost_prime_systems": {
+    "ducats": 45,
+    "name": "Frost Prime Systems Blueprint"
+  },
+  "frost_prime_chassis": {
+    "ducats": 15,
+    "name": "Frost Prime Chassis Blueprint"
+  },
+  "frost_prime_blueprint": {
+    "ducats": 100,
+    "name": "Frost Prime Blueprint"
+  },
+  "frost_prime_set": {
+    "ducats": 175,
+    "name": "Frost Prime Set"
+  },
+  "hydroid_prime_blueprint": {
+    "ducats": 45,
+    "name": "Hydroid Prime Blueprint"
+  },
+  "hydroid_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Hydroid Prime Neuroptics Blueprint"
+  },
+  "hydroid_prime_chassis": {
+    "ducats": 15,
+    "name": "Hydroid Prime Chassis Blueprint"
+  },
+  "hydroid_prime_systems": {
+    "ducats": 100,
+    "name": "Hydroid Prime Systems Blueprint"
+  },
+  "hydroid_prime_set": {
+    "ducats": 205,
+    "name": "Hydroid Prime Set"
+  },
+  "zephyr_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Zephyr Prime Neuroptics Blueprint"
+  },
+  "zephyr_prime_blueprint": {
+    "ducats": 65,
+    "name": "Zephyr Prime Blueprint"
+  },
+  "zephyr_prime_chassis": {
+    "ducats": 25,
+    "name": "Zephyr Prime Chassis Blueprint"
+  },
+  "zephyr_prime_systems": {
+    "ducats": 100,
+    "name": "Zephyr Prime Systems Blueprint"
+  },
+  "zephyr_prime_set": {
+    "ducats": 205,
+    "name": "Zephyr Prime Set"
+  },
+  "redeemer_prime_blade": {
+    "ducats": 15,
+    "name": "Redeemer Prime Blade"
+  },
+  "redeemer_prime_blueprint": {
+    "ducats": 45,
+    "name": "Redeemer Prime Blueprint"
+  },
+  "redeemer_prime_set": {
+    "ducats": 160,
+    "name": "Redeemer Prime Set"
+  },
+  "redeemer_prime_handle": {
+    "ducats": 100,
+    "name": "Redeemer Prime Handle"
+  },
+  "akjagara_prime_barrel": {
+    "ducats": 100,
+    "name": "Akjagara Prime Barrel"
+  },
+  "akjagara_prime_blueprint": {
+    "ducats": 15,
+    "name": "Akjagara Prime Blueprint"
+  },
+  "akjagara_prime_set": {
+    "ducats": 350,
+    "name": "Akjagara Prime Set"
+  },
+  "akjagara_prime_receiver": {
+    "ducats": 45,
+    "name": "Akjagara Prime Receiver"
+  },
+  "akjagara_prime_link": {
+    "ducats": 45,
+    "name": "Akjagara Prime Link"
+  },
+  "zhuge_prime_barrel": {
+    "ducats": 100,
+    "name": "Zhuge Prime Barrel"
+  },
+  "zhuge_prime_grip": {
+    "ducats": 15,
+    "name": "Zhuge Prime Grip"
+  },
+  "zhuge_prime_string": {
+    "ducats": 15,
+    "name": "Zhuge Prime String"
+  },
+  "zhuge_prime_blueprint": {
+    "ducats": 45,
+    "name": "Zhuge Prime Blueprint"
+  },
+  "zhuge_prime_receiver": {
+    "ducats": 45,
+    "name": "Zhuge Prime Receiver"
+  },
+  "zhuge_prime_set": {
+    "ducats": 220,
+    "name": "Zhuge Prime Set"
+  },
+  "wyrm_prime_blueprint": {
+    "ducats": 15,
+    "name": "Wyrm Prime Blueprint"
+  },
+  "wyrm_prime_cerebrum": {
+    "ducats": 15,
+    "name": "Wyrm Prime Cerebrum"
+  },
+  "wyrm_prime_carapace": {
+    "ducats": 15,
+    "name": "Wyrm Prime Carapace"
+  },
+  "wyrm_prime_systems": {
+    "ducats": 45,
+    "name": "Wyrm Prime Systems"
+  },
+  "wyrm_prime_set": {
+    "ducats": 90,
+    "name": "Wyrm Prime Set"
+  },
+  "orthos_prime_blade": {
+    "ducats": 45,
+    "name": "Orthos Prime Blade"
+  },
+  "orthos_prime_blueprint": {
+    "ducats": 45,
+    "name": "Orthos Prime Blueprint"
+  },
+  "orthos_prime_handle": {
+    "ducats": 15,
+    "name": "Orthos Prime Handle"
+  },
+  "orthos_prime_set": {
+    "ducats": 150,
+    "name": "Orthos Prime Set"
+  },
+  "loki_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Loki Prime Neuroptics Blueprint"
+  },
+  "loki_prime_systems": {
+    "ducats": 100,
+    "name": "Loki Prime Systems Blueprint"
+  },
+  "loki_prime_chassis": {
+    "ducats": 45,
+    "name": "Loki Prime Chassis Blueprint"
+  },
+  "loki_prime_blueprint": {
+    "ducats": 15,
+    "name": "Loki Prime Blueprint"
+  },
+  "loki_prime_set": {
+    "ducats": 175,
+    "name": "Loki Prime Set"
+  },
+  "odonata_prime_blueprint": {
+    "ducats": 45,
+    "name": "Odonata Prime Blueprint"
+  },
+  "odonata_prime_harness": {
+    "ducats": 15,
+    "name": "Odonata Prime Harness Blueprint"
+  },
+  "odonata_prime_wings": {
+    "ducats": 65,
+    "name": "Odonata Prime Wings Blueprint"
+  },
+  "odonata_prime_systems": {
+    "ducats": 15,
+    "name": "Odonata Prime Systems Blueprint"
+  },
+  "odonata_prime_set": {
+    "ducats": 140,
+    "name": "Odonata Prime Set"
+  },
+  "hikou_prime_blueprint": {
+    "ducats": 15,
+    "name": "Hikou Prime Blueprint"
+  },
+  "hikou_prime_pouch": {
+    "ducats": 15,
+    "name": "Hikou Prime Pouch"
+  },
+  "hikou_prime_stars": {
+    "ducats": 15,
+    "name": "Hikou Prime Stars"
+  },
+  "hikou_prime_set": {
+    "ducats": 75,
+    "name": "Hikou Prime Set"
+  },
+  "reaper_prime_blade": {
+    "ducats": 45,
+    "name": "Reaper Prime Blade"
+  },
+  "reaper_prime_blueprint": {
+    "ducats": 15,
+    "name": "Reaper Prime Blueprint"
+  },
+  "reaper_prime_handle": {
+    "ducats": 15,
+    "name": "Reaper Prime Handle"
+  },
+  "reaper_prime_set": {
+    "ducats": 75,
+    "name": "Reaper Prime Set"
+  },
+  "rhino_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Rhino Prime Neuroptics Blueprint"
+  },
+  "rhino_prime_blueprint": {
+    "ducats": 100,
+    "name": "Rhino Prime Blueprint"
+  },
+  "rhino_prime_chassis": {
+    "ducats": 65,
+    "name": "Rhino Prime Chassis Blueprint"
+  },
+  "rhino_prime_systems": {
+    "ducats": 15,
+    "name": "Rhino Prime Systems Blueprint"
+  },
+  "rhino_prime_set": {
+    "ducats": 225,
+    "name": "Rhino Prime Set"
+  },
+  "ballistica_prime_blueprint": {
+    "ducats": 100,
+    "name": "Ballistica Prime Blueprint"
+  },
+  "ballistica_prime_set": {
+    "ducats": 250,
+    "name": "Ballistica Prime Set"
+  },
+  "ballistica_prime_upper_limb": {
+    "ducats": 45,
+    "name": "Ballistica Prime Upper Limb"
+  },
+  "ballistica_prime_lower_limb": {
+    "ducats": 15,
+    "name": "Ballistica Prime Lower Limb"
+  },
+  "ballistica_prime_string": {
+    "ducats": 45,
+    "name": "Ballistica Prime String"
+  },
+  "ballistica_prime_receiver": {
+    "ducats": 45,
+    "name": "Ballistica Prime Receiver"
+  },
+  "vasto_prime_barrel": {
+    "ducats": 15,
+    "name": "Vasto Prime Barrel"
+  },
+  "vasto_prime_blueprint": {
+    "ducats": 45,
+    "name": "Vasto Prime Blueprint"
+  },
+  "vasto_prime_receiver": {
+    "ducats": 15,
+    "name": "Vasto Prime Receiver"
+  },
+  "vasto_prime_set": {
+    "ducats": 75,
+    "name": "Vasto Prime Set"
+  },
+  "oberon_prime_blueprint": {
+    "ducats": 45,
+    "name": "Oberon Prime Blueprint"
+  },
+  "oberon_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Oberon Prime Neuroptics Blueprint"
+  },
+  "oberon_prime_chassis": {
+    "ducats": 15,
+    "name": "Oberon Prime Chassis Blueprint"
+  },
+  "oberon_prime_systems": {
+    "ducats": 65,
+    "name": "Oberon Prime Systems Blueprint"
+  },
+  "oberon_prime_set": {
+    "ducats": 225,
+    "name": "Oberon Prime Set"
+  },
+  "volt_prime_neuroptics": {
+    "ducats": 65,
+    "name": "Volt Prime Neuroptics Blueprint"
+  },
+  "volt_prime_chassis": {
+    "ducats": 45,
+    "name": "Volt Prime Chassis Blueprint"
+  },
+  "volt_prime_systems": {
+    "ducats": 45,
+    "name": "Volt Prime Systems Blueprint"
+  },
+  "volt_prime_blueprint": {
+    "ducats": 25,
+    "name": "Volt Prime Blueprint"
+  },
+  "volt_prime_set": {
+    "ducats": 180,
+    "name": "Volt Prime Set"
+  },
+  "ninkondi_prime_blueprint": {
+    "ducats": 15,
+    "name": "Ninkondi Prime Blueprint"
+  },
+  "ninkondi_prime_handle": {
+    "ducats": 100,
+    "name": "Ninkondi Prime Handle"
+  },
+  "ninkondi_prime_set": {
+    "ducats": 260,
+    "name": "Ninkondi Prime Set"
+  },
+  "ninkondi_prime_chain": {
+    "ducats": 45,
+    "name": "Ninkondi Prime Chain"
+  },
+  "wukong_prime_chassis": {
+    "ducats": 45,
+    "name": "Wukong Prime Chassis Blueprint"
+  },
+  "wukong_prime_blueprint": {
+    "ducats": 100,
+    "name": "Wukong Prime Blueprint"
+  },
+  "wukong_prime_systems": {
+    "ducats": 45,
+    "name": "Wukong Prime Systems Blueprint"
+  },
+  "wukong_prime_set": {
+    "ducats": 205,
+    "name": "Wukong Prime Set"
+  },
+  "wukong_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Wukong Prime Neuroptics Blueprint"
+  },
+  "ember_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Ember Prime Neuroptics Blueprint"
+  },
+  "ember_prime_systems": {
+    "ducats": 45,
+    "name": "Ember Prime Systems Blueprint"
+  },
+  "ember_prime_chassis": {
+    "ducats": 15,
+    "name": "Ember Prime Chassis Blueprint"
+  },
+  "ember_prime_blueprint": {
+    "ducats": 100,
+    "name": "Ember Prime Blueprint"
+  },
+  "ember_prime_set": {
+    "ducats": 175,
+    "name": "Ember Prime Set"
+  },
+  "nyx_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Nyx Prime Neuroptics Blueprint"
+  },
+  "nyx_prime_blueprint": {
+    "ducats": 15,
+    "name": "Nyx Prime Blueprint"
+  },
+  "nyx_prime_chassis": {
+    "ducats": 65,
+    "name": "Nyx Prime Chassis Blueprint"
+  },
+  "nyx_prime_systems": {
+    "ducats": 45,
+    "name": "Nyx Prime Systems Blueprint"
+  },
+  "nyx_prime_set": {
+    "ducats": 225,
+    "name": "Nyx Prime Set"
+  },
+  "dual_kamas_prime_blueprint": {
+    "ducats": 15,
+    "name": "Dual Kamas Prime Blueprint"
+  },
+  "dual_kamas_prime_blade": {
+    "ducats": 100,
+    "name": "Dual Kamas Prime Blade"
+  },
+  "dual_kamas_prime_handle": {
+    "ducats": 45,
+    "name": "Dual Kamas Prime Handle"
+  },
+  "dual_kamas_prime_set": {
+    "ducats": 305,
+    "name": "Dual Kamas Prime Set"
+  },
+  "tigris_prime_set": {
+    "ducats": 205,
+    "name": "Tigris Prime Set"
+  },
+  "tigris_prime_stock": {
+    "ducats": 15,
+    "name": "Tigris Prime Stock"
+  },
+  "tigris_prime_barrel": {
+    "ducats": 45,
+    "name": "Tigris Prime Barrel"
+  },
+  "tigris_prime_receiver": {
+    "ducats": 45,
+    "name": "Tigris Prime Receiver"
+  },
+  "tigris_prime_blueprint": {
+    "ducats": 100,
+    "name": "Tigris Prime Blueprint"
+  },
+  "helios_prime_set": {
+    "ducats": 205,
+    "name": "Helios Prime Set"
+  },
+  "helios_prime_cerebrum": {
+    "ducats": 100,
+    "name": "Helios Prime Cerebrum"
+  },
+  "helios_prime_carapace": {
+    "ducats": 15,
+    "name": "Helios Prime Carapace"
+  },
+  "helios_prime_systems": {
+    "ducats": 45,
+    "name": "Helios Prime Systems"
+  },
+  "helios_prime_blueprint": {
+    "ducats": 45,
+    "name": "Helios Prime Blueprint"
+  },
+  "trinity_prime_blueprint": {
+    "ducats": 45,
+    "name": "Trinity Prime Blueprint"
+  },
+  "trinity_prime_neuroptics": {
+    "ducats": 25,
+    "name": "Trinity Prime Neuroptics Blueprint"
+  },
+  "trinity_prime_chassis": {
+    "ducats": 45,
+    "name": "Trinity Prime Chassis Blueprint"
+  },
+  "trinity_prime_systems": {
+    "ducats": 15,
+    "name": "Trinity Prime Systems Blueprint"
+  },
+  "trinity_prime_set": {
+    "ducats": 130,
+    "name": "Trinity Prime Set"
+  },
+  "fang_prime_blade": {
+    "ducats": 15,
+    "name": "Fang Prime Blade"
+  },
+  "fang_prime_blueprint": {
+    "ducats": 15,
+    "name": "Fang Prime Blueprint"
+  },
+  "fang_prime_handle": {
+    "ducats": 25,
+    "name": "Fang Prime Handle"
+  },
+  "fang_prime_set": {
+    "ducats": 95,
+    "name": "Fang Prime Set"
+  },
+  "mag_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Mag Prime Neuroptics Blueprint"
+  },
+  "mag_prime_systems": {
+    "ducats": 15,
+    "name": "Mag Prime Systems Blueprint"
+  },
+  "mag_prime_blueprint": {
+    "ducats": 100,
+    "name": "Mag Prime Blueprint"
+  },
+  "mag_prime_chassis": {
+    "ducats": 45,
+    "name": "Mag Prime Chassis Blueprint"
+  },
+  "mag_prime_set": {
+    "ducats": 175,
+    "name": "Mag Prime Set"
+  },
+  "nami_skyla_prime_blueprint": {
+    "ducats": 15,
+    "name": "Nami Skyla Prime Blueprint"
+  },
+  "nami_skyla_prime_set": {
+    "ducats": 305,
+    "name": "Nami Skyla Prime Set"
+  },
+  "nami_skyla_prime_blade": {
+    "ducats": 100,
+    "name": "Nami Skyla Prime Blade"
+  },
+  "nami_skyla_prime_handle": {
+    "ducats": 45,
+    "name": "Nami Skyla Prime Handle"
+  },
+  "pyrana_prime_blueprint": {
+    "ducats": 100,
+    "name": "Pyrana Prime Blueprint"
+  },
+  "pyrana_prime_receiver": {
+    "ducats": 45,
+    "name": "Pyrana Prime Receiver"
+  },
+  "pyrana_prime_barrel": {
+    "ducats": 15,
+    "name": "Pyrana Prime Barrel"
+  },
+  "pyrana_prime_set": {
+    "ducats": 160,
+    "name": "Pyrana Prime Set"
+  },
+  "destreza_prime_blade": {
+    "ducats": 100,
+    "name": "Destreza Prime Blade"
+  },
+  "destreza_prime_set": {
+    "ducats": 160,
+    "name": "Destreza Prime Set"
+  },
+  "destreza_prime_blueprint": {
+    "ducats": 45,
+    "name": "Destreza Prime Blueprint"
+  },
+  "destreza_prime_handle": {
+    "ducats": 15,
+    "name": "Destreza Prime Handle"
+  },
+  "ankyros_prime_blade": {
+    "ducats": 65,
+    "name": "Ankyros Prime Blade"
+  },
+  "ankyros_prime_blueprint": {
+    "ducats": 15,
+    "name": "Ankyros Prime Blueprint"
+  },
+  "ankyros_prime_gauntlet": {
+    "ducats": 15,
+    "name": "Ankyros Prime Gauntlet"
+  },
+  "ankyros_prime_set": {
+    "ducats": 175,
+    "name": "Ankyros Prime Set"
+  },
+  "bo_prime_blueprint": {
+    "ducats": 15,
+    "name": "Bo Prime Blueprint"
+  },
+  "bo_prime_handle": {
+    "ducats": 45,
+    "name": "Bo Prime Handle"
+  },
+  "bo_prime_ornament": {
+    "ducats": 15,
+    "name": "Bo Prime Ornament"
+  },
+  "bo_prime_set": {
+    "ducats": 90,
+    "name": "Bo Prime Set"
+  },
+  "silva_and_aegis_prime_blueprint": {
+    "ducats": 45,
+    "name": "Silva & Aegis Prime Blueprint"
+  },
+  "silva_and_aegis_prime_guard": {
+    "ducats": 100,
+    "name": "Silva & Aegis Prime Guard"
+  },
+  "silva_and_aegis_prime_hilt": {
+    "ducats": 15,
+    "name": "Silva & Aegis Prime Hilt"
+  },
+  "silva_and_aegis_prime_blade": {
+    "ducats": 45,
+    "name": "Silva & Aegis Prime Blade"
+  },
+  "silva_and_aegis_prime_set": {
+    "ducats": 205,
+    "name": "Silva & Aegis Prime Set"
+  },
+  "ash_prime_blueprint": {
+    "ducats": 45,
+    "name": "Ash Prime Blueprint"
+  },
+  "ash_prime_chassis": {
+    "ducats": 15,
+    "name": "Ash Prime Chassis Blueprint"
+  },
+  "ash_prime_systems": {
+    "ducats": 65,
+    "name": "Ash Prime Systems Blueprint"
+  },
+  "ash_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Ash Prime Neuroptics Blueprint"
+  },
+  "ash_prime_set": {
+    "ducats": 170,
+    "name": "Ash Prime Set"
+  },
+  "vectis_prime_barrel": {
+    "ducats": 15,
+    "name": "Vectis Prime Barrel"
+  },
+  "vectis_prime_blueprint": {
+    "ducats": 45,
+    "name": "Vectis Prime Blueprint"
+  },
+  "vectis_prime_receiver": {
+    "ducats": 100,
+    "name": "Vectis Prime Receiver"
+  },
+  "vectis_prime_stock": {
+    "ducats": 65,
+    "name": "Vectis Prime Stock"
+  },
+  "vectis_prime_set": {
+    "ducats": 225,
+    "name": "Vectis Prime Set"
+  },
+  "carrier_prime_blueprint": {
+    "ducats": 15,
+    "name": "Carrier Prime Blueprint"
+  },
+  "carrier_prime_cerebrum": {
+    "ducats": 65,
+    "name": "Carrier Prime Cerebrum"
+  },
+  "carrier_prime_carapace": {
+    "ducats": 15,
+    "name": "Carrier Prime Carapace"
+  },
+  "carrier_prime_systems": {
+    "ducats": 15,
+    "name": "Carrier Prime Systems"
+  },
+  "carrier_prime_set": {
+    "ducats": 110,
+    "name": "Carrier Prime Set"
+  },
+  "soma_prime_barrel": {
+    "ducats": 15,
+    "name": "Soma Prime Barrel"
+  },
+  "soma_prime_blueprint": {
+    "ducats": 15,
+    "name": "Soma Prime Blueprint"
+  },
+  "soma_prime_receiver": {
+    "ducats": 45,
+    "name": "Soma Prime Receiver"
+  },
+  "soma_prime_stock": {
+    "ducats": 100,
+    "name": "Soma Prime Stock"
+  },
+  "soma_prime_set": {
+    "ducats": 175,
+    "name": "Soma Prime Set"
+  },
+  "saryn_prime_blueprint": {
+    "ducats": 65,
+    "name": "Saryn Prime Blueprint"
+  },
+  "saryn_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Saryn Prime Neuroptics Blueprint"
+  },
+  "saryn_prime_systems": {
+    "ducats": 15,
+    "name": "Saryn Prime Systems Blueprint"
+  },
+  "saryn_prime_chassis": {
+    "ducats": 100,
+    "name": "Saryn Prime Chassis Blueprint"
+  },
+  "saryn_prime_set": {
+    "ducats": 225,
+    "name": "Saryn Prime Set"
+  },
+  "tipedo_prime_handle": {
+    "ducats": 100,
+    "name": "Tipedo Prime Handle"
+  },
+  "tipedo_prime_ornament": {
+    "ducats": 45,
+    "name": "Tipedo Prime Ornament"
+  },
+  "tipedo_prime_blueprint": {
+    "ducats": 15,
+    "name": "Tipedo Prime Blueprint"
+  },
+  "tipedo_prime_set": {
+    "ducats": 205,
+    "name": "Tipedo Prime Set"
+  },
+  "stradavar_prime_barrel": {
+    "ducats": 45,
+    "name": "Stradavar Prime Barrel"
+  },
+  "stradavar_prime_set": {
+    "ducats": 175,
+    "name": "Stradavar Prime Set"
+  },
+  "stradavar_prime_receiver": {
+    "ducats": 15,
+    "name": "Stradavar Prime Receiver"
+  },
+  "stradavar_prime_stock": {
+    "ducats": 15,
+    "name": "Stradavar Prime Stock"
+  },
+  "stradavar_prime_blueprint": {
+    "ducats": 100,
+    "name": "Stradavar Prime Blueprint"
+  },
+  "equinox_prime_set": {
+    "ducats": 205,
+    "name": "Equinox Prime Set"
+  },
+  "equinox_prime_systems": {
+    "ducats": 100,
+    "name": "Equinox Prime Systems Blueprint"
+  },
+  "equinox_prime_chassis": {
+    "ducats": 15,
+    "name": "Equinox Prime Chassis Blueprint"
+  },
+  "equinox_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Equinox Prime Neuroptics Blueprint"
+  },
+  "equinox_prime_blueprint": {
+    "ducats": 45,
+    "name": "Equinox Prime Blueprint"
+  },
+  "bronco_prime_barrel": {
+    "ducats": 45,
+    "name": "Bronco Prime Barrel"
+  },
+  "bronco_prime_blueprint": {
+    "ducats": 15,
+    "name": "Bronco Prime Blueprint"
+  },
+  "bronco_prime_receiver": {
+    "ducats": 15,
+    "name": "Bronco Prime Receiver"
+  },
+  "bronco_prime_set": {
+    "ducats": 75,
+    "name": "Bronco Prime Set"
+  },
+  "nova_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Nova Prime Neuroptics Blueprint"
+  },
+  "nova_prime_chassis": {
+    "ducats": 100,
+    "name": "Nova Prime Chassis Blueprint"
+  },
+  "nova_prime_systems": {
+    "ducats": 15,
+    "name": "Nova Prime Systems Blueprint"
+  },
+  "nova_prime_blueprint": {
+    "ducats": 45,
+    "name": "Nova Prime Blueprint"
+  },
+  "nova_prime_set": {
+    "ducats": 175,
+    "name": "Nova Prime Set"
+  },
+  "burston_prime_barrel": {
+    "ducats": 45,
+    "name": "Burston Prime Barrel"
+  },
+  "burston_prime_blueprint": {
+    "ducats": 15,
+    "name": "Burston Prime Blueprint"
+  },
+  "burston_prime_receiver": {
+    "ducats": 15,
+    "name": "Burston Prime Receiver"
+  },
+  "burston_prime_stock": {
+    "ducats": 15,
+    "name": "Burston Prime Stock"
+  },
+  "burston_prime_set": {
+    "ducats": 90,
+    "name": "Burston Prime Set"
+  },
+  "vauban_prime_blueprint": {
+    "ducats": 65,
+    "name": "Vauban Prime Blueprint"
+  },
+  "vauban_prime_chassis": {
+    "ducats": 25,
+    "name": "Vauban Prime Chassis Blueprint"
+  },
+  "vauban_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Vauban Prime Neuroptics Blueprint"
+  },
+  "vauban_prime_set": {
+    "ducats": 290,
+    "name": "Vauban Prime Set"
+  },
+  "vauban_prime_systems": {
+    "ducats": 100,
+    "name": "Vauban Prime Systems Blueprint"
+  },
+  "sybaris_prime_blueprint": {
+    "ducats": 15,
+    "name": "Sybaris Prime Blueprint"
+  },
+  "sybaris_prime_stock": {
+    "ducats": 15,
+    "name": "Sybaris Prime Stock"
+  },
+  "sybaris_prime_receiver": {
+    "ducats": 45,
+    "name": "Sybaris Prime Receiver"
+  },
+  "sybaris_prime_barrel": {
+    "ducats": 100,
+    "name": "Sybaris Prime Barrel"
+  },
+  "sybaris_prime_set": {
+    "ducats": 175,
+    "name": "Sybaris Prime Set"
+  },
+  "banshee_prime_blueprint": {
+    "ducats": 45,
+    "name": "Banshee Prime Blueprint"
+  },
+  "banshee_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Banshee Prime Neuroptics Blueprint"
+  },
+  "banshee_prime_chassis": {
+    "ducats": 100,
+    "name": "Banshee Prime Chassis Blueprint"
+  },
+  "banshee_prime_systems": {
+    "ducats": 65,
+    "name": "Banshee Prime Systems Blueprint"
+  },
+  "banshee_prime_set": {
+    "ducats": 225,
+    "name": "Banshee Prime Set"
+  },
+  "kavasa_prime_kubrow_collar_blueprint": {
+    "ducats": 45,
+    "name": "Kavasa Prime Kubrow Collar Blueprint"
+  },
+  "kavasa_prime_buckle": {
+    "ducats": 65,
+    "name": "Kavasa Prime Buckle"
+  },
+  "kavasa_prime_band": {
+    "ducats": 45,
+    "name": "Kavasa Prime Band"
+  },
+  "kavasa_prime_kubrow_collar_set": {
+    "ducats": 155,
+    "name": "Kavasa Prime Kubrow Collar Set"
+  },
+  "latron_prime_barrel": {
+    "ducats": 15,
+    "name": "Latron Prime Barrel"
+  },
+  "latron_prime_blueprint": {
+    "ducats": 15,
+    "name": "Latron Prime Blueprint"
+  },
+  "latron_prime_receiver": {
+    "ducats": 15,
+    "name": "Latron Prime Receiver"
+  },
+  "latron_prime_stock": {
+    "ducats": 15,
+    "name": "Latron Prime Stock"
+  },
+  "latron_prime_set": {
+    "ducats": 60,
+    "name": "Latron Prime Set"
+  },
+  "lex_prime_barrel": {
+    "ducats": 15,
+    "name": "Lex Prime Barrel"
+  },
+  "lex_prime_blueprint": {
+    "ducats": 25,
+    "name": "Lex Prime Blueprint"
+  },
+  "lex_prime_receiver": {
+    "ducats": 15,
+    "name": "Lex Prime Receiver"
+  },
+  "lex_prime_set": {
+    "ducats": 55,
+    "name": "Lex Prime Set"
+  },
+  "sicarus_prime_barrel": {
+    "ducats": 15,
+    "name": "Sicarus Prime Barrel"
+  },
+  "sicarus_prime_blueprint": {
+    "ducats": 15,
+    "name": "Sicarus Prime Blueprint"
+  },
+  "sicarus_prime_receiver": {
+    "ducats": 100,
+    "name": "Sicarus Prime Receiver"
+  },
+  "sicarus_prime_set": {
+    "ducats": 130,
+    "name": "Sicarus Prime Set"
+  },
+  "boltor_prime_barrel": {
+    "ducats": 15,
+    "name": "Boltor Prime Barrel"
+  },
+  "boltor_prime_blueprint": {
+    "ducats": 100,
+    "name": "Boltor Prime Blueprint"
+  },
+  "boltor_prime_receiver": {
+    "ducats": 45,
+    "name": "Boltor Prime Receiver"
+  },
+  "boltor_prime_stock": {
+    "ducats": 15,
+    "name": "Boltor Prime Stock"
+  },
+  "boltor_prime_set": {
+    "ducats": 175,
+    "name": "Boltor Prime Set"
+  },
+  "braton_prime_barrel": {
+    "ducats": 15,
+    "name": "Braton Prime Barrel"
+  },
+  "braton_prime_blueprint": {
+    "ducats": 25,
+    "name": "Braton Prime Blueprint"
+  },
+  "braton_prime_receiver": {
+    "ducats": 45,
+    "name": "Braton Prime Receiver"
+  },
+  "braton_prime_stock": {
+    "ducats": 25,
+    "name": "Braton Prime Stock"
+  },
+  "braton_prime_set": {
+    "ducats": 110,
+    "name": "Braton Prime Set"
+  },
+  "aklex_prime_blueprint": {
+    "ducats": 45,
+    "name": "Aklex Prime Blueprint"
+  },
+  "aklex_prime_link": {
+    "ducats": 100,
+    "name": "Aklex Prime Link"
+  },
+  "aklex_prime_set": {
+    "ducats": 145,
+    "name": "Aklex Prime Set"
+  },
+  "scindo_prime_blade": {
+    "ducats": 100,
+    "name": "Scindo Prime Blade"
+  },
+  "scindo_prime_blueprint": {
+    "ducats": 45,
+    "name": "Scindo Prime Blueprint"
+  },
+  "scindo_prime_handle": {
+    "ducats": 25,
+    "name": "Scindo Prime Handle"
+  },
+  "scindo_prime_set": {
+    "ducats": 170,
+    "name": "Scindo Prime Set"
+  },
+  "rubico_prime_set": {
+    "ducats": 185,
+    "name": "Rubico Prime Set"
+  },
+  "rubico_prime_barrel": {
+    "ducats": 25,
+    "name": "Rubico Prime Barrel"
+  },
+  "rubico_prime_receiver": {
+    "ducats": 15,
+    "name": "Rubico Prime Receiver"
+  },
+  "rubico_prime_stock": {
+    "ducats": 45,
+    "name": "Rubico Prime Stock"
+  },
+  "rubico_prime_blueprint": {
+    "ducats": 100,
+    "name": "Rubico Prime Blueprint"
+  },
+  "nekros_prime_set": {
+    "ducats": 225,
+    "name": "Nekros Prime Set"
+  },
+  "nekros_prime_chassis": {
+    "ducats": 15,
+    "name": "Nekros Prime Chassis Blueprint"
+  },
+  "nekros_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Nekros Prime Neuroptics Blueprint"
+  },
+  "nekros_prime_systems": {
+    "ducats": 100,
+    "name": "Nekros Prime Systems Blueprint"
+  },
+  "nekros_prime_blueprint": {
+    "ducats": 65,
+    "name": "Nekros Prime Blueprint"
+  },
+  "euphona_prime_barrel": {
+    "ducats": 45,
+    "name": "Euphona Prime Barrel"
+  },
+  "euphona_prime_receiver": {
+    "ducats": 100,
+    "name": "Euphona Prime Receiver"
+  },
+  "euphona_prime_blueprint": {
+    "ducats": 15,
+    "name": "Euphona Prime Blueprint"
+  },
+  "euphona_prime_set": {
+    "ducats": 160,
+    "name": "Euphona Prime Set"
+  },
+  "boar_prime_barrel": {
+    "ducats": 45,
+    "name": "Boar Prime Barrel"
+  },
+  "boar_prime_blueprint": {
+    "ducats": 15,
+    "name": "Boar Prime Blueprint"
+  },
+  "boar_prime_receiver": {
+    "ducats": 15,
+    "name": "Boar Prime Receiver"
+  },
+  "boar_prime_stock": {
+    "ducats": 100,
+    "name": "Boar Prime Stock"
+  },
+  "boar_prime_set": {
+    "ducats": 175,
+    "name": "Boar Prime Set"
+  },
+  "tiberon_prime_blueprint": {
+    "ducats": 25,
+    "name": "Tiberon Prime Blueprint"
+  },
+  "tiberon_prime_barrel": {
+    "ducats": 65,
+    "name": "Tiberon Prime Barrel"
+  },
+  "tiberon_prime_stock": {
+    "ducats": 100,
+    "name": "Tiberon Prime Stock"
+  },
+  "tiberon_prime_set": {
+    "ducats": 205,
+    "name": "Tiberon Prime Set"
+  },
+  "tiberon_prime_receiver": {
+    "ducats": 15,
+    "name": "Tiberon Prime Receiver"
+  },
+  "kogake_prime_boot": {
+    "ducats": 15,
+    "name": "Kogake Prime Boot"
+  },
+  "kogake_prime_blueprint": {
+    "ducats": 45,
+    "name": "Kogake Prime Blueprint"
+  },
+  "kogake_prime_set": {
+    "ducats": 275,
+    "name": "Kogake Prime Set"
+  },
+  "kogake_prime_gauntlet": {
+    "ducats": 100,
+    "name": "Kogake Prime Gauntlet"
+  },
+  "valkyr_prime_blueprint": {
+    "ducats": 15,
+    "name": "Valkyr Prime Blueprint"
+  },
+  "valkyr_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Valkyr Prime Neuroptics Blueprint"
+  },
+  "valkyr_prime_chassis": {
+    "ducats": 100,
+    "name": "Valkyr Prime Chassis Blueprint"
+  },
+  "valkyr_prime_systems": {
+    "ducats": 65,
+    "name": "Valkyr Prime Systems Blueprint"
+  },
+  "valkyr_prime_set": {
+    "ducats": 225,
+    "name": "Valkyr Prime Set"
+  },
+  "venka_prime_blueprint": {
+    "ducats": 45,
+    "name": "Venka Prime Blueprint"
+  },
+  "venka_prime_gauntlet": {
+    "ducats": 100,
+    "name": "Venka Prime Gauntlet"
+  },
+  "venka_prime_blades": {
+    "ducats": 15,
+    "name": "Venka Prime Blades"
+  },
+  "venka_prime_set": {
+    "ducats": 275,
+    "name": "Venka Prime Set"
+  },
+  "akvasto_prime_set": {
+    "ducats": 145,
+    "name": "Akvasto Prime Set"
+  },
+  "akvasto_prime_blueprint": {
+    "ducats": 100,
+    "name": "Akvasto Prime Blueprint"
+  },
+  "akvasto_prime_link": {
+    "ducats": 45,
+    "name": "Akvasto Prime Link"
+  },
+  "akbronco_prime_blueprint": {
+    "ducats": 15,
+    "name": "Akbronco Prime Blueprint"
+  },
+  "akbronco_prime_link": {
+    "ducats": 45,
+    "name": "Akbronco Prime Link"
+  },
+  "akbronco_prime_set": {
+    "ducats": 60,
+    "name": "Akbronco Prime Set"
+  },
+  "dakra_prime_blade": {
+    "ducats": 65,
+    "name": "Dakra Prime Blade"
+  },
+  "dakra_prime_blueprint": {
+    "ducats": 45,
+    "name": "Dakra Prime Blueprint"
+  },
+  "dakra_prime_handle": {
+    "ducats": 15,
+    "name": "Dakra Prime Handle"
+  },
+  "dakra_prime_set": {
+    "ducats": 125,
+    "name": "Dakra Prime Set"
+  },
+  "paris_prime_grip": {
+    "ducats": 45,
+    "name": "Paris Prime Grip"
+  },
+  "paris_prime_lower_limb": {
+    "ducats": 15,
+    "name": "Paris Prime Lower Limb"
+  },
+  "paris_prime_blueprint": {
+    "ducats": 15,
+    "name": "Paris Prime Blueprint"
+  },
+  "paris_prime_string": {
+    "ducats": 15,
+    "name": "Paris Prime String"
+  },
+  "paris_prime_upper_limb": {
+    "ducats": 25,
+    "name": "Paris Prime Upper Limb"
+  },
+  "paris_prime_set": {
+    "ducats": 115,
+    "name": "Paris Prime Set"
+  },
+  "mesa_prime_set": {
+    "ducats": 260,
+    "name": "Mesa Prime Set"
+  },
+  "mesa_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Mesa Prime Neuroptics Blueprint"
+  },
+  "mesa_prime_blueprint": {
+    "ducats": 45,
+    "name": "Mesa Prime Blueprint"
+  },
+  "mesa_prime_systems": {
+    "ducats": 100,
+    "name": "Mesa Prime Systems Blueprint"
+  },
+  "mesa_prime_chassis": {
+    "ducats": 15,
+    "name": "Mesa Prime Chassis Blueprint"
+  },
+  "atlas_prime_chassis": {
+    "ducats": 45,
+    "name": "Atlas Prime Chassis Blueprint"
+  },
+  "atlas_prime_set": {
+    "ducats": 205,
+    "name": "Atlas Prime Set"
+  },
+  "atlas_prime_systems": {
+    "ducats": 45,
+    "name": "Atlas Prime Systems Blueprint"
+  },
+  "atlas_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Atlas Prime Neuroptics Blueprint"
+  },
+  "atlas_prime_blueprint": {
+    "ducats": 15,
+    "name": "Atlas Prime Blueprint"
+  },
+  "dethcube_prime_carapace": {
+    "ducats": 45,
+    "name": "Dethcube Prime Carapace"
+  },
+  "dethcube_prime_cerebrum": {
+    "ducats": 65,
+    "name": "Dethcube Prime Cerebrum"
+  },
+  "dethcube_prime_blueprint": {
+    "ducats": 100,
+    "name": "Dethcube Prime Blueprint"
+  },
+  "dethcube_prime_set": {
+    "ducats": 225,
+    "name": "Dethcube Prime Set"
+  },
+  "dethcube_prime_systems": {
+    "ducats": 15,
+    "name": "Dethcube Prime Systems"
+  },
+  "tekko_prime_gauntlet": {
+    "ducats": 15,
+    "name": "Tekko Prime Gauntlet"
+  },
+  "tekko_prime_blade": {
+    "ducats": 100,
+    "name": "Tekko Prime Blade"
+  },
+  "tekko_prime_set": {
+    "ducats": 275,
+    "name": "Tekko Prime Set"
+  },
+  "tekko_prime_blueprint": {
+    "ducats": 45,
+    "name": "Tekko Prime Blueprint"
+  },
+  "limbo_prime_blueprint": {
+    "ducats": 45,
+    "name": "Limbo Prime Blueprint"
+  },
+  "limbo_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Limbo Prime Neuroptics Blueprint"
+  },
+  "limbo_prime_set": {
+    "ducats": 260,
+    "name": "Limbo Prime Set"
+  },
+  "limbo_prime_systems": {
+    "ducats": 15,
+    "name": "Limbo Prime Systems Blueprint"
+  },
+  "limbo_prime_chassis": {
+    "ducats": 100,
+    "name": "Limbo Prime Chassis Blueprint"
+  },
+  "ivara_prime_blueprint": {
+    "ducats": 45,
+    "name": "Ivara Prime Blueprint"
+  },
+  "ivara_prime_set": {
+    "ducats": 205,
+    "name": "Ivara Prime Set"
+  },
+  "ivara_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Ivara Prime Neuroptics Blueprint"
+  },
+  "ivara_prime_chassis": {
+    "ducats": 100,
+    "name": "Ivara Prime Chassis Blueprint"
+  },
+  "ivara_prime_systems": {
+    "ducats": 45,
+    "name": "Ivara Prime Systems Blueprint"
+  },
+  "baza_prime_blueprint": {
+    "ducats": 65,
+    "name": "Baza Prime Blueprint"
+  },
+  "baza_prime_set": {
+    "ducats": 225,
+    "name": "Baza Prime Set"
+  },
+  "baza_prime_stock": {
+    "ducats": 100,
+    "name": "Baza Prime Stock"
+  },
+  "baza_prime_barrel": {
+    "ducats": 45,
+    "name": "Baza Prime Barrel"
+  },
+  "baza_prime_receiver": {
+    "ducats": 15,
+    "name": "Baza Prime Receiver"
+  },
+  "aksomati_prime_set": {
+    "ducats": 235,
+    "name": "Aksomati Prime Set"
+  },
+  "aksomati_prime_link": {
+    "ducats": 100,
+    "name": "Aksomati Prime Link"
+  },
+  "aksomati_prime_receiver": {
+    "ducats": 15,
+    "name": "Aksomati Prime Receiver"
+  },
+  "aksomati_prime_blueprint": {
+    "ducats": 15,
+    "name": "Aksomati Prime Blueprint"
+  },
+  "aksomati_prime_barrel": {
+    "ducats": 45,
+    "name": "Aksomati Prime Barrel"
+  },
+  "gram_prime_handle": {
+    "ducats": 100,
+    "name": "Gram Prime Handle"
+  },
+  "gram_prime_blueprint": {
+    "ducats": 45,
+    "name": "Gram Prime Blueprint"
+  },
+  "gram_prime_blade": {
+    "ducats": 15,
+    "name": "Gram Prime Blade"
+  },
+  "gram_prime_set": {
+    "ducats": 160,
+    "name": "Gram Prime Set"
+  },
+  "galatine_prime_set": {
+    "ducats": 160,
+    "name": "Galatine Prime Set"
+  },
+  "galatine_prime_handle": {
+    "ducats": 45,
+    "name": "Galatine Prime Handle"
+  },
+  "galatine_prime_blade": {
+    "ducats": 15,
+    "name": "Galatine Prime Blade"
+  },
+  "galatine_prime_blueprint": {
+    "ducats": 100,
+    "name": "Galatine Prime Blueprint"
+  },
+  "glaive_prime_blade": {
+    "ducats": 45,
+    "name": "Glaive Prime Blade"
+  },
+  "glaive_prime_blueprint": {
+    "ducats": 100,
+    "name": "Glaive Prime Blueprint"
+  },
+  "glaive_prime_disc": {
+    "ducats": 45,
+    "name": "Glaive Prime Disc"
+  },
+  "glaive_prime_set": {
+    "ducats": 235,
+    "name": "Glaive Prime Set"
+  },
+  "fragor_prime_blueprint": {
+    "ducats": 65,
+    "name": "Fragor Prime Blueprint"
+  },
+  "fragor_prime_handle": {
+    "ducats": 65,
+    "name": "Fragor Prime Handle"
+  },
+  "fragor_prime_head": {
+    "ducats": 15,
+    "name": "Fragor Prime Head"
+  },
+  "fragor_prime_set": {
+    "ducats": 145,
+    "name": "Fragor Prime Set"
+  },
+  "akstiletto_prime_blueprint": {
+    "ducats": 100,
+    "name": "Akstiletto Prime Blueprint"
+  },
+  "akstiletto_prime_barrel": {
+    "ducats": 25,
+    "name": "Akstiletto Prime Barrel"
+  },
+  "akstiletto_prime_receiver": {
+    "ducats": 45,
+    "name": "Akstiletto Prime Receiver"
+  },
+  "akstiletto_prime_link": {
+    "ducats": 45,
+    "name": "Akstiletto Prime Link"
+  },
+  "akstiletto_prime_set": {
+    "ducats": 285,
+    "name": "Akstiletto Prime Set"
+  },
+  "akbolto_prime_receiver": {
+    "ducats": 100,
+    "name": "Akbolto Prime Receiver"
+  },
+  "akbolto_prime_blueprint": {
+    "ducats": 15,
+    "name": "Akbolto Prime Blueprint"
+  },
+  "akbolto_prime_set": {
+    "ducats": 350,
+    "name": "Akbolto Prime Set"
+  },
+  "akbolto_prime_link": {
+    "ducats": 45,
+    "name": "Akbolto Prime Link"
+  },
+  "akbolto_prime_barrel": {
+    "ducats": 45,
+    "name": "Akbolto Prime Barrel"
+  },
+  "titania_prime_chassis": {
+    "ducats": 15,
+    "name": "Titania Prime Chassis Blueprint"
+  },
+  "titania_prime_systems": {
+    "ducats": 100,
+    "name": "Titania Prime Systems Blueprint"
+  },
+  "titania_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Titania Prime Neuroptics Blueprint"
+  },
+  "titania_prime_blueprint": {
+    "ducats": 45,
+    "name": "Titania Prime Blueprint"
+  },
+  "titania_prime_set": {
+    "ducats": 205,
+    "name": "Titania Prime Set"
+  },
+  "pangolin_prime_handle": {
+    "ducats": 15,
+    "name": "Pangolin Prime Handle"
+  },
+  "pangolin_prime_blueprint": {
+    "ducats": 100,
+    "name": "Pangolin Prime Blueprint"
+  },
+  "pangolin_prime_blade": {
+    "ducats": 45,
+    "name": "Pangolin Prime Blade"
+  },
+  "pangolin_prime_set": {
+    "ducats": 160,
+    "name": "Pangolin Prime Set"
+  },
+  "cernos_prime_blueprint": {
+    "ducats": 45,
+    "name": "Cernos Prime Blueprint"
+  },
+  "cernos_prime_lower_limb": {
+    "ducats": 100,
+    "name": "Cernos Prime Lower Limb"
+  },
+  "cernos_prime_upper_limb": {
+    "ducats": 15,
+    "name": "Cernos Prime Upper Limb"
+  },
+  "cernos_prime_grip": {
+    "ducats": 15,
+    "name": "Cernos Prime Grip"
+  },
+  "cernos_prime_string": {
+    "ducats": 25,
+    "name": "Cernos Prime String"
+  },
+  "cernos_prime_set": {
+    "ducats": 200,
+    "name": "Cernos Prime Set"
+  },
+  "inaros_prime_set": {
+    "ducats": 205,
+    "name": "Inaros Prime Set"
+  },
+  "inaros_prime_chassis": {
+    "ducats": 45,
+    "name": "Inaros Prime Chassis Blueprint"
+  },
+  "inaros_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Inaros Prime Neuroptics Blueprint"
+  },
+  "inaros_prime_blueprint": {
+    "ducats": 45,
+    "name": "Inaros Prime Blueprint"
+  },
+  "inaros_prime_systems": {
+    "ducats": 15,
+    "name": "Inaros Prime Systems Blueprint"
+  },
+  "panthera_prime_stock": {
+    "ducats": 45,
+    "name": "Panthera Prime Stock"
+  },
+  "panthera_prime_set": {
+    "ducats": 260,
+    "name": "Panthera Prime Set"
+  },
+  "panthera_prime_barrel": {
+    "ducats": 100,
+    "name": "Panthera Prime Barrel"
+  },
+  "panthera_prime_receiver": {
+    "ducats": 100,
+    "name": "Panthera Prime Receiver"
+  },
+  "panthera_prime_blueprint": {
+    "ducats": 15,
+    "name": "Panthera Prime Blueprint"
+  },
+  "karyst_prime_handle": {
+    "ducats": 45,
+    "name": "Karyst Prime Handle"
+  },
+  "karyst_prime_set": {
+    "ducats": 160,
+    "name": "Karyst Prime Set"
+  },
+  "karyst_prime_blueprint": {
+    "ducats": 15,
+    "name": "Karyst Prime Blueprint"
+  },
+  "karyst_prime_blade": {
+    "ducats": 100,
+    "name": "Karyst Prime Blade"
+  },
+  "kronen_prime_blueprint": {
+    "ducats": 15,
+    "name": "Kronen Prime Blueprint"
+  },
+  "kronen_prime_set": {
+    "ducats": 305,
+    "name": "Kronen Prime Set"
+  },
+  "kronen_prime_handle": {
+    "ducats": 45,
+    "name": "Kronen Prime Handle"
+  },
+  "kronen_prime_blade": {
+    "ducats": 100,
+    "name": "Kronen Prime Blade"
+  },
+  "nikana_prime_blueprint": {
+    "ducats": 25,
+    "name": "Nikana Prime Blueprint"
+  },
+  "nikana_prime_blade": {
+    "ducats": 65,
+    "name": "Nikana Prime Blade"
+  },
+  "nikana_prime_hilt": {
+    "ducats": 100,
+    "name": "Nikana Prime Hilt"
+  },
+  "nikana_prime_set": {
+    "ducats": 190,
+    "name": "Nikana Prime Set"
+  },
+  "spira_prime_blueprint": {
+    "ducats": 15,
+    "name": "Spira Prime Blueprint"
+  },
+  "spira_prime_blade": {
+    "ducats": 65,
+    "name": "Spira Prime Blade"
+  },
+  "spira_prime_pouch": {
+    "ducats": 100,
+    "name": "Spira Prime Pouch"
+  },
+  "spira_prime_set": {
+    "ducats": 345,
+    "name": "Spira Prime Set"
+  },
+  "mirage_prime_systems": {
+    "ducats": 45,
+    "name": "Mirage Prime Systems Blueprint"
+  },
+  "mirage_prime_set": {
+    "ducats": 175,
+    "name": "Mirage Prime Set"
+  },
+  "mirage_prime_blueprint": {
+    "ducats": 100,
+    "name": "Mirage Prime Blueprint"
+  },
+  "mirage_prime_chassis": {
+    "ducats": 15,
+    "name": "Mirage Prime Chassis Blueprint"
+  },
+  "mirage_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Mirage Prime Neuroptics Blueprint"
+  },
+  "nezha_prime_blueprint": {
+    "ducats": 45,
+    "name": "Nezha Prime Blueprint"
+  },
+  "nezha_prime_systems": {
+    "ducats": 15,
+    "name": "Nezha Prime Systems Blueprint"
+  },
+  "nezha_prime_chassis": {
+    "ducats": 100,
+    "name": "Nezha Prime Chassis Blueprint"
+  },
+  "nezha_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Nezha Prime Neuroptics Blueprint"
+  },
+  "nezha_prime_set": {
+    "ducats": 260,
+    "name": "Nezha Prime Set"
+  },
+  "guandao_prime_set": {
+    "ducats": 175,
+    "name": "Guandao Prime Set"
+  },
+  "guandao_prime_blade": {
+    "ducats": 15,
+    "name": "Guandao Prime Blade"
+  },
+  "guandao_prime_blueprint": {
+    "ducats": 45,
+    "name": "Guandao Prime Blueprint"
+  },
+  "guandao_prime_handle": {
+    "ducats": 100,
+    "name": "Guandao Prime Handle"
+  },
+  "chroma_prime_systems": {
+    "ducats": 65,
+    "name": "Chroma Prime Systems Blueprint"
+  },
+  "chroma_prime_chassis": {
+    "ducats": 25,
+    "name": "Chroma Prime Chassis Blueprint"
+  },
+  "chroma_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Chroma Prime Neuroptics Blueprint"
+  },
+  "chroma_prime_set": {
+    "ducats": 205,
+    "name": "Chroma Prime Set"
+  },
+  "chroma_prime_blueprint": {
+    "ducats": 15,
+    "name": "Chroma Prime Blueprint"
+  },
+  "corinth_prime_stock": {
+    "ducats": 100,
+    "name": "Corinth Prime Stock"
+  },
+  "corinth_prime_blueprint": {
+    "ducats": 15,
+    "name": "Corinth Prime Blueprint"
+  },
+  "corinth_prime_set": {
+    "ducats": 260,
+    "name": "Corinth Prime Set"
+  },
+  "corinth_prime_barrel": {
+    "ducats": 100,
+    "name": "Corinth Prime Barrel"
+  },
+  "corinth_prime_receiver": {
+    "ducats": 45,
+    "name": "Corinth Prime Receiver"
+  },
+  "zakti_prime_blueprint": {
+    "ducats": 100,
+    "name": "Zakti Prime Blueprint"
+  },
+  "zakti_prime_set": {
+    "ducats": 160,
+    "name": "Zakti Prime Set"
+  },
+  "zakti_prime_barrel": {
+    "ducats": 45,
+    "name": "Zakti Prime Barrel"
+  },
+  "zakti_prime_receiver": {
+    "ducats": 15,
+    "name": "Zakti Prime Receiver"
+  },
+  "octavia_prime_blueprint": {
+    "ducats": 100,
+    "name": "Octavia Prime Blueprint"
+  },
+  "octavia_prime_chassis": {
+    "ducats": 45,
+    "name": "Octavia Prime Chassis Blueprint"
+  },
+  "octavia_prime_neuroptics": {
+    "ducats": 15,
+    "name": "Octavia Prime Neuroptics Blueprint"
+  },
+  "octavia_prime_systems": {
+    "ducats": 15,
+    "name": "Octavia Prime Systems Blueprint"
+  },
+  "octavia_prime_set": {
+    "ducats": 175,
+    "name": "Octavia Prime Set"
+  },
+  "tenora_prime_blueprint": {
+    "ducats": 15,
+    "name": "Tenora Prime Blueprint"
+  },
+  "tenora_prime_receiver": {
+    "ducats": 100,
+    "name": "Tenora Prime Receiver"
+  },
+  "tenora_prime_stock": {
+    "ducats": 45,
+    "name": "Tenora Prime Stock"
+  },
+  "tenora_prime_set": {
+    "ducats": 260,
+    "name": "Tenora Prime Set"
+  },
+  "tenora_prime_barrel": {
+    "ducats": 100,
+    "name": "Tenora Prime Barrel"
+  },
+  "pandero_prime_set": {
+    "ducats": 160,
+    "name": "Pandero Prime Set"
+  },
+  "pandero_prime_barrel": {
+    "ducats": 45,
+    "name": "Pandero Prime Barrel"
+  },
+  "pandero_prime_receiver": {
+    "ducats": 100,
+    "name": "Pandero Prime Receiver"
+  },
+  "pandero_prime_blueprint": {
+    "ducats": 15,
+    "name": "Pandero Prime Blueprint"
+  },
+  "volnus_prime_handle": {
+    "ducats": 100,
+    "name": "Volnus Prime Handle"
+  },
+  "volnus_prime_head": {
+    "ducats": 45,
+    "name": "Volnus Prime Head"
+  },
+  "volnus_prime_set": {
+    "ducats": 160,
+    "name": "Volnus Prime Set"
+  },
+  "volnus_prime_blueprint": {
+    "ducats": 15,
+    "name": "Volnus Prime Blueprint"
+  },
+  "gara_prime_blueprint": {
+    "ducats": 100,
+    "name": "Gara Prime Blueprint"
+  },
+  "gara_prime_set": {
+    "ducats": 205,
+    "name": "Gara Prime Set"
+  },
+  "gara_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Gara Prime Neuroptics Blueprint"
+  },
+  "gara_prime_systems": {
+    "ducats": 15,
+    "name": "Gara Prime Systems Blueprint"
+  },
+  "gara_prime_chassis": {
+    "ducats": 45,
+    "name": "Gara Prime Chassis Blueprint"
+  },
+  "astilla_prime_blueprint": {
+    "ducats": 45,
+    "name": "Astilla Prime Blueprint"
+  },
+  "astilla_prime_receiver": {
+    "ducats": 15,
+    "name": "Astilla Prime Receiver"
+  },
+  "astilla_prime_barrel": {
+    "ducats": 100,
+    "name": "Astilla Prime Barrel"
+  },
+  "astilla_prime_set": {
+    "ducats": 205,
+    "name": "Astilla Prime Set"
+  },
+  "astilla_prime_stock": {
+    "ducats": 45,
+    "name": "Astilla Prime Stock"
+  },
+  "nidus_prime_blueprint": {
+    "ducats": 45,
+    "name": "Nidus Prime Blueprint"
+  },
+  "nidus_prime_set": {
+    "ducats": 260,
+    "name": "Nidus Prime Set"
+  },
+  "nidus_prime_systems": {
+    "ducats": 15,
+    "name": "Nidus Prime Systems Blueprint"
+  },
+  "nidus_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Nidus Prime Neuroptics Blueprint"
+  },
+  "nidus_prime_chassis": {
+    "ducats": 100,
+    "name": "Nidus Prime Chassis Blueprint"
+  },
+  "strun_prime_set": {
+    "ducats": 205,
+    "name": "Strun Prime Set"
+  },
+  "strun_prime_blueprint": {
+    "ducats": 100,
+    "name": "Strun Prime Blueprint"
+  },
+  "strun_prime_receiver": {
+    "ducats": 15,
+    "name": "Strun Prime Receiver"
+  },
+  "strun_prime_barrel": {
+    "ducats": 45,
+    "name": "Strun Prime Barrel"
+  },
+  "strun_prime_stock": {
+    "ducats": 45,
+    "name": "Strun Prime Stock"
+  },
+  "magnus_prime_set": {
+    "ducats": 160,
+    "name": "Magnus Prime Set"
+  },
+  "magnus_prime_blueprint": {
+    "ducats": 15,
+    "name": "Magnus Prime Blueprint"
+  },
+  "magnus_prime_receiver": {
+    "ducats": 45,
+    "name": "Magnus Prime Receiver"
+  },
+  "magnus_prime_barrel": {
+    "ducats": 100,
+    "name": "Magnus Prime Barrel"
+  },
+  "knell_prime_set": {
+    "ducats": 160,
+    "name": "Knell Prime Set"
+  },
+  "knell_prime_barrel": {
+    "ducats": 100,
+    "name": "Knell Prime Barrel"
+  },
+  "knell_prime_blueprint": {
+    "ducats": 15,
+    "name": "Knell Prime Blueprint"
+  },
+  "knell_prime_receiver": {
+    "ducats": 45,
+    "name": "Knell Prime Receiver"
+  },
+  "scourge_prime_blade": {
+    "ducats": 15,
+    "name": "Scourge Prime Blade"
+  },
+  "scourge_prime_barrel": {
+    "ducats": 100,
+    "name": "Scourge Prime Barrel"
+  },
+  "scourge_prime_set": {
+    "ducats": 260,
+    "name": "Scourge Prime Set"
+  },
+  "scourge_prime_handle": {
+    "ducats": 45,
+    "name": "Scourge Prime Handle"
+  },
+  "scourge_prime_blueprint": {
+    "ducats": 100,
+    "name": "Scourge Prime Blueprint"
+  },
+  "harrow_prime_blueprint": {
+    "ducats": 45,
+    "name": "Harrow Prime Blueprint"
+  },
+  "harrow_prime_set": {
+    "ducats": 205,
+    "name": "Harrow Prime Set"
+  },
+  "harrow_prime_neuroptics": {
+    "ducats": 45,
+    "name": "Harrow Prime Neuroptics Blueprint"
+  },
+  "harrow_prime_chassis": {
+    "ducats": 15,
+    "name": "Harrow Prime Chassis Blueprint"
+  },
+  "harrow_prime_systems": {
+    "ducats": 100,
+    "name": "Harrow Prime Systems Blueprint"
+  },
+  "garuda_prime_chassis": {
+    "ducats": 45,
+    "name": "Garuda Prime Chassis Blueprint"
+  },
+  "garuda_prime_systems": {
+    "ducats": 100,
+    "name": "Garuda Prime Systems Blueprint"
+  },
+  "garuda_prime_set": {
+    "ducats": 260,
+    "name": "Garuda Prime Set"
+  },
+  "garuda_prime_neuroptics": {
+    "ducats": 100,
+    "name": "Garuda Prime Neuroptics Blueprint"
+  },
+  "garuda_prime_blueprint": {
+    "ducats": 15,
+    "name": "Garuda Prime Blueprint"
+  },
+  "corvas_prime_set": {
+    "ducats": 175,
+    "name": "Corvas Prime Set"
+  },
+  "corvas_prime_barrel": {
+    "ducats": 100,
+    "name": "Corvas Prime Barrel"
+  },
+  "corvas_prime_blueprint": {
+    "ducats": 45,
+    "name": "Corvas Prime Blueprint"
+  },
+  "corvas_prime_stock": {
+    "ducats": 15,
+    "name": "Corvas Prime Stock"
+  },
+  "corvas_prime_receiver": {
+    "ducats": 15,
+    "name": "Corvas Prime Receiver"
+  },
+  "nagantaka_prime_set": {
+    "ducats": 205,
+    "name": "Nagantaka Prime Set"
+  },
+  "nagantaka_prime_receiver": {
+    "ducats": 45,
+    "name": "Nagantaka Prime Receiver"
+  },
+  "nagantaka_prime_blueprint": {
+    "ducats": 100,
+    "name": "Nagantaka Prime Blueprint"
+  },
+  "nagantaka_prime_stock": {
+    "ducats": 45,
+    "name": "Nagantaka Prime Stock"
+  },
+  "nagantaka_prime_barrel": {
+    "ducats": 15,
+    "name": "Nagantaka Prime Barrel"
+  },
+  "hystrix_prime_blueprint": {
+    "ducats": 45,
+    "name": "Hystrix Prime Blueprint"
+  },
+  "hystrix_prime_set": {
+    "ducats": 160,
+    "name": "Hystrix Prime Set"
+  },
+  "hystrix_prime_receiver": {
+    "ducats": 100,
+    "name": "Hystrix Prime Receiver"
+  },
+  "hystrix_prime_barrel": {
+    "ducats": 15,
+    "name": "Hystrix Prime Barrel"
+  },
+  "khora_prime_chassis_blueprint": {
+    "ducats": 45,
+    "name": "Khora Prime Chassis Blueprint"
+  },
+  "khora_prime_set": {
+    "ducats": 260,
+    "name": "Khora Prime Set"
+  },
+  "khora_prime_blueprint": {
+    "ducats": 100,
+    "name": "Khora Prime Blueprint"
+  },
+  "khora_prime_neuroptics_blueprint": {
+    "ducats": 100,
+    "name": "Khora Prime Neuroptics Blueprint"
+  },
+  "khora_prime_systems_blueprint": {
+    "ducats": 15,
+    "name": "Khora Prime Systems Blueprint"
+  },
+  "dual_keres_prime_set": {
+    "ducats": 220,
+    "name": "Dual Keres Prime Set"
+  },
+  "dual_keres_prime_handle": {
+    "ducats": 45,
+    "name": "Dual Keres Prime Handle"
+  },
+  "dual_keres_prime_blueprint": {
+    "ducats": 100,
+    "name": "Dual Keres Prime Blueprint"
+  },
+  "dual_keres_prime_blade": {
+    "ducats": 15,
+    "name": "Dual Keres Prime Blade"
+  },
+  "tatsu_prime_blade": {
+    "ducats": 45,
+    "name": "Tatsu Prime Blade"
+  },
+  "tatsu_prime_set": {
+    "ducats": 160,
+    "name": "Tatsu Prime Set"
+  },
+  "tatsu_prime_blueprint": {
+    "ducats": 15,
+    "name": "Tatsu Prime Blueprint"
+  },
+  "tatsu_prime_handle": {
+    "ducats": 100,
+    "name": "Tatsu Prime Handle"
+  },
+  "revenant_prime_chassis_blueprint": {
+    "ducats": 15,
+    "name": "Revenant Prime Chassis Blueprint"
+  },
+  "revenant_prime_systems_blueprint": {
+    "ducats": 45,
+    "name": "Revenant Prime Systems Blueprint"
+  },
+  "revenant_prime_set": {
+    "ducats": 205,
+    "name": "Revenant Prime Set"
+  },
+  "revenant_prime_neuroptics_blueprint": {
+    "ducats": 45,
+    "name": "Revenant Prime Neuroptics Blueprint"
+  },
+  "revenant_prime_blueprint": {
+    "ducats": 100,
+    "name": "Revenant Prime Blueprint"
+  },
+  "phantasma_prime_barrel": {
+    "ducats": 100,
+    "name": "Phantasma Prime Barrel"
+  },
+  "phantasma_prime_blueprint": {
+    "ducats": 45,
+    "name": "Phantasma Prime Blueprint"
+  },
+  "phantasma_prime_set": {
+    "ducats": 260,
+    "name": "Phantasma Prime Set"
+  },
+  "phantasma_prime_receiver": {
+    "ducats": 15,
+    "name": "Phantasma Prime Receiver"
+  },
+  "phantasma_prime_stock": {
+    "ducats": 100,
+    "name": "Phantasma Prime Stock"
+  },
+  "baruuk_prime_chassis_blueprint": {
+    "ducats": 45,
+    "name": "Baruuk Prime Chassis Blueprint"
+  },
+  "baruuk_prime_blueprint": {
+    "ducats": 100,
+    "name": "Baruuk Prime Blueprint"
+  },
+  "baruuk_prime_systems_blueprint": {
+    "ducats": 15,
+    "name": "Baruuk Prime Systems Blueprint"
+  },
+  "baruuk_prime_neuroptics_blueprint": {
+    "ducats": 100,
+    "name": "Baruuk Prime Neuroptics Blueprint"
+  },
+  "baruuk_prime_set": {
+    "ducats": 260,
+    "name": "Baruuk Prime Set"
+  },
+  "cobra_and_crane_prime_guard": {
+    "ducats": 100,
+    "name": "Cobra & Crane Prime Guard"
+  },
+  "cobra_and_crane_prime_blueprint": {
+    "ducats": 45,
+    "name": "Cobra & Crane Prime Blueprint"
+  },
+  "cobra_and_crane_prime_blade": {
+    "ducats": 45,
+    "name": "Cobra & Crane Prime Blade"
+  },
+  "cobra_and_crane_prime_hilt": {
+    "ducats": 15,
+    "name": "Cobra & Crane Prime Hilt"
+  },
+  "cobra_and_crane_prime_set": {
+    "ducats": 205,
+    "name": "Cobra & Crane Prime Set"
+  },
+  "afuris_prime_barrel": {
+    "ducats": 15,
+    "name": "Afuris Prime Barrel"
+  },
+  "afuris_prime_set": {
+    "ducats": 290,
+    "name": "Afuris Prime Set"
+  },
+  "afuris_prime_link": {
+    "ducats": 45,
+    "name": "Afuris Prime Link"
+  },
+  "afuris_prime_blueprint": {
+    "ducats": 15,
+    "name": "Afuris Prime Blueprint"
+  },
+  "afuris_prime_receiver": {
+    "ducats": 100,
+    "name": "Afuris Prime Receiver"
+  },
+  "hildryn_prime_blueprint": {
+    "ducats": 100,
+    "name": "Hildryn Prime Blueprint"
+  },
+  "hildryn_prime_systems_blueprint": {
+    "ducats": 15,
+    "name": "Hildryn Prime Systems Blueprint"
+  },
+  "hildryn_prime_set": {
+    "ducats": 205,
+    "name": "Hildryn Prime Set"
+  },
+  "hildryn_prime_neuroptics_blueprint": {
+    "ducats": 45,
+    "name": "Hildryn Prime Neuroptics Blueprint"
+  },
+  "hildryn_prime_chassis_blueprint": {
+    "ducats": 45,
+    "name": "Hildryn Prime Chassis Blueprint"
+  },
+  "shade_prime_blueprint": {
+    "ducats": 45,
+    "name": "Shade Prime Blueprint"
+  },
+  "shade_prime_systems": {
+    "ducats": 45,
+    "name": "Shade Prime Systems"
+  },
+  "shade_prime_cerebrum": {
+    "ducats": 15,
+    "name": "Shade Prime Cerebrum"
+  },
+  "shade_prime_set": {
+    "ducats": 205,
+    "name": "Shade Prime Set"
+  },
+  "shade_prime_carapace": {
+    "ducats": 100,
+    "name": "Shade Prime Carapace"
+  },
+  "larkspur_prime_set": {
+    "ducats": 205,
+    "name": "Larkspur Prime Set"
+  },
+  "larkspur_prime_barrel": {
+    "ducats": 100,
+    "name": "Larkspur Prime Barrel"
+  },
+  "larkspur_prime_stock": {
+    "ducats": 45,
+    "name": "Larkspur Prime Stock"
+  },
+  "larkspur_prime_receiver": {
+    "ducats": 45,
+    "name": "Larkspur Prime Receiver"
+  },
+  "larkspur_prime_blueprint": {
+    "ducats": 15,
+    "name": "Larkspur Prime Blueprint"
+  },
+  "wisp_prime_chassis_blueprint": {
+    "ducats": 100,
+    "name": "Wisp Prime Chassis Blueprint"
+  },
+  "wisp_prime_set": {
+    "ducats": 260,
+    "name": "Wisp Prime Set"
+  },
+  "wisp_prime_neuroptics_blueprint": {
+    "ducats": 45,
+    "name": "Wisp Prime Neuroptics Blueprint"
+  },
+  "wisp_prime_systems_blueprint": {
+    "ducats": 15,
+    "name": "Wisp Prime Systems Blueprint"
+  },
+  "wisp_prime_blueprint": {
+    "ducats": 100,
+    "name": "Wisp Prime Blueprint"
+  },
+  "gunsen_prime_blueprint": {
+    "ducats": 15,
+    "name": "Gunsen Prime Blueprint"
+  },
+  "gunsen_prime_set": {
+    "ducats": 305,
+    "name": "Gunsen Prime Set"
+  },
+  "gunsen_prime_handle": {
+    "ducats": 45,
+    "name": "Gunsen Prime Handle"
+  },
+  "gunsen_prime_blade": {
+    "ducats": 100,
+    "name": "Gunsen Prime Blade"
+  },
+  "fulmin_prime_blueprint": {
+    "ducats": 45,
+    "name": "Fulmin Prime Blueprint"
+  },
+  "fulmin_prime_barrel": {
+    "ducats": 15,
+    "name": "Fulmin Prime Barrel"
+  },
+  "fulmin_prime_set": {
+    "ducats": 205,
+    "name": "Fulmin Prime Set"
+  },
+  "fulmin_prime_stock": {
+    "ducats": 45,
+    "name": "Fulmin Prime Stock"
+  },
+  "fulmin_prime_receiver": {
+    "ducats": 100,
+    "name": "Fulmin Prime Receiver"
+  }
+}
