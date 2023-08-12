@@ -242,13 +242,14 @@ def saveSales(fileName, listings, items):
     with open(fileName, "w") as f:
         json.dump(sales, f)
 
-items = loadItems("items.json")
-prices = getItemPrices("items.json")
-listings = getOptimalListings(prices, 10)
-listings = listingsFromDict(listings)
-listings = buyOrders(listings, trades=20, minDucatsPerTrade=50, minDucatsPerPlat=15, value=True)
-messages = getIGNMessages(listings, items)
-
-with open("sales.txt", "w") as f:
-    for message in messages:
-        f.write(f"{message[1]} ({message[2]}): {message[0]}\n")
+if __name__ == "__main__":
+    items = loadItems("items.json")
+    prices = getItemPrices("items.json")
+    listings = getOptimalListings(prices, 10)
+    listings = listingsFromDict(listings)
+    listings = buyOrders(listings, trades=20, minDucatsPerTrade=50, minDucatsPerPlat=15, value=True)
+    messages = getIGNMessages(listings, items)
+    
+    with open("sales.txt", "w") as f:
+        for message in messages:
+            f.write(f"{message[1]} ({message[2]}): {message[0]}\n")
